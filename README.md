@@ -1,0 +1,1 @@
+-- This script detects the operating system of the entered ip.
